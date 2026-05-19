@@ -1,0 +1,46 @@
+* {
+   box-sizing: border-box;
+}
+
+.box {
+   width: 400px;
+   height: 400px;
+   margin: 10% auto;
+   border: solid 5px rgba(255, 255, 255, 0.9);
+   border-radius: 20px;
+   padding: 70px;
+}
+
+body {
+   background-color: #000000;
+   color: #FFFFFF;
+}
+
+button {
+   color: #FFFFFF;
+   background-color: #010101;
+   border-radius: 5px;
+   
+}
+
+input {
+   border: solid 1px #FFFFFF;
+   border-radius: 5px;
+}
+
+/* Imagem */
+.produtos img {
+   width: 250px;
+   height: 300px;
+   border-radius: 10px;
+   margin: 10px;
+}
+
+.produtos img:hover {
+   transform: scale(1.1);
+}
+
+.containerProdutos1 {
+   justify-content: center;
+   display: flex;
+}
