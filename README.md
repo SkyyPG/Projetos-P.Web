@@ -8,4 +8,4 @@ Linguagens e ferramentas utilizadas:
 - NodeJS
 
 Projetos catalogados:
-- [Site de vendas](link). 
+- [Site de vendas](https://github.com/SkyyPG/Projetos-P.Web/pisca_games). 
